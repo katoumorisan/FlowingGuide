@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FlowingGuide"
 include ':app'
+include ':XOverlay'
